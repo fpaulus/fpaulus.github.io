@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Second post"
 date:   2019-03-12
 categories: update
