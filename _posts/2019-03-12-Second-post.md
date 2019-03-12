@@ -6,3 +6,5 @@ categories: update
 ---
 
 This time, typing from the phone in Drafts and trying to save as a file, then upload to GitHub using Working Copy. 
+
+Hi Charles 
