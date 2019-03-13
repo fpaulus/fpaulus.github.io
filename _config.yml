@@ -82,6 +82,8 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+repository               : 'fpaulus/fpaulus.github.io'
+
 # Social Sharing
 twitter:
   username               :
